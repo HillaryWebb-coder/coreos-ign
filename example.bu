@@ -4,4 +4,4 @@ passwd:
   users:
     - name: hillary
       ssh_authorized_keys:
-        - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEknDNm7mUeLdNv4JfoWDa3nsmhPwIZi2k+ht7pXq2EV hillary@HillaryWebb
+        - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCWjsH130oCfMyLsyuYpNwkdQe154gSMLGlmbt7BosV4fZEVxyyiNo85WZt31UGdvUqMVWjJhqOsCGIUpd69V5p4LEQu6qYhD49opyvrT0vXtiLi/caunSeAvcmFWkC6sitojFpjgxpBXpSCJAl8aSBKeieZ2Gk5mSyY1aV54uCC4Wc3lMCOFBA6q73KVhpczWZRtUmyE7UY/CLkMQnv26ECmuSpVYvQ0HZ8/5VMPBxN+OjhYjjiN0fMY7GHE8X8OwEhpT4DUxhSM/d2DdbROZNJULokr80VGG3jnCfKDu0pD+rHW5mQQ1RKMZ0WRAAmRCU/t9TBpTLT3LPIRVZ8wecZLl42J3RNJ43EVMw40yfVjE6end/SoXdyyr+I10icnpp9uDJc6NmKXod/pCxE4OXxSeSieBTlKkqrzKzRma+Pnb9IYB/rzhuKD/sE+DrLTIJV8hzjxCmVeuApMJZxGkLYR5Trs5I8bhsWVSBjSRS4OCrkCjDfcST0wtJJJ6xRlk= hillary@HillaryWebb
